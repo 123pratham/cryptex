@@ -8,7 +8,7 @@
 
   Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/123pratham/cryptex.git"><strong>➥ Live Demo</strong></a>
+  <a href="https://crypto8839.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
