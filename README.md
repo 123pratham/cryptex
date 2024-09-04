@@ -8,7 +8,7 @@
 
   Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/123pratham/cryptex?tab=readme-ov-file"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/123pratham/cryptex.git"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,13 +31,13 @@ To run **Cryptex** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/123pratham/cryptex?tab=readme-ov-file
+sudo git clone https://github.com/123pratham/cryptex.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/123pratham/cryptex?tab=readme-ov-file
+git clone https://github.com/123pratham/cryptex.git
 ```
 
 ### Contact
